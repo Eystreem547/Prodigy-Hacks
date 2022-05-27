@@ -1,0 +1,5 @@
+[10:45:15] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[10:45:16] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[10:45:16] [main/ERROR]: Failed to load properties from file: server.properties
+[10:45:16] [main/WARN]: Failed to load eula.txt
+[10:45:16] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
